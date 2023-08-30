@@ -1,8 +1,7 @@
-
 # PERSONAL
 Thanks for coming and see this template!
-Btw i'm downloading this template from BootstrapMade.com
-<br>
+<br/>Btw i'm downloading this template from BootstrapMade.com
+<br/>
 I use this template to learn code but i'm to lazy for write code from zero 😅
 <br/>
 <br/>
